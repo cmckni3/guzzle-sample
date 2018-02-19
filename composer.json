@@ -1,0 +1,13 @@
+{
+    "name": "cmckni3/guzzle-sample",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^3.8"
+    },
+    "authors": [
+        {
+            "name": "Chris McKnight",
+            "email": "cmckni3@gmail.com"
+        }
+    ]
+}
